@@ -1,0 +1,12 @@
+Gemfile.lock
+.idea
+.rspec_status
+**/.DS_Store
+dfs-scripts*.gem
+.byebug_history
+.ruby-version
+log
+*.log
+.ipynb_checkpoints
+__pycache__
+
